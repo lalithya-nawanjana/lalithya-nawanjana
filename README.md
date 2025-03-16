@@ -3,13 +3,19 @@
 
 ![Freelance Available](https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat&logo=freelancer) ![Profile Views](https://komarev.com/ghpvc/?username=lalithya-nawanjana&label=Profile%20views&color=0e75b6&style=flat)
 
+- ✨ Passionate about building creative and high-performing applications
+- 🔬 Always learning and exploring new technologies
+- 📌 Open to exciting opportunities | **Let’s connect!**
+
 ### 🏆 GitHub Achievements
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=lalithya-nawanjana&margin-w=5&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Microservice**
+- 🔭 I’m currently working on **Microservice with Spring Boot**
 
 - 🌱 I’m currently learning **Azure, AWS and Spring Boot**
+
+- 💬 Ask me about **Angular, Java, Spring Boot and AWS**
 
 - 📫 How to reach me **lalithyanawanjana@gmail.com**
 
