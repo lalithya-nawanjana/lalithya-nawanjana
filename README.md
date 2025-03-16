@@ -1,5 +1,5 @@
 # Hi 👋🏻, I'm Lalithya Nawanjana
-### A passionate frontend developer from Sri Lanka
+### A passionate Full-Stack Engineer from Sri Lanka, specializing in scalable applications
 
 ![Freelance Available](https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat&logo=freelancer) ![Profile Views](https://komarev.com/ghpvc/?username=lalithya-nawanjana&label=Profile%20views&color=0e75b6&style=flat)
 
