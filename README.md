@@ -1,10 +1,12 @@
-# Hi 👋, I'm Lalithya Nawanjana
+# Hi 👋🏻, I'm Lalithya Nawanjana
 ### A passionate frontend developer from Sri Lanka
 
 ![Freelance Available](https://img.shields.io/badge/Freelance-Available-brightgreen?style=flat&logo=freelancer) ![Profile Views](https://komarev.com/ghpvc/?username=lalithya-nawanjana&label=Profile%20views&color=0e75b6&style=flat)
 
 - ✨ Passionate about building creative and high-performing applications
+  
 - 🔬 Always learning and exploring new technologies
+  
 - 📌 Open to exciting opportunities | **Let’s connect!**
 
 ### 🏆 GitHub Achievements
